@@ -8,6 +8,7 @@ For start download  and include library from GitHub...
   <script src = "path/to/the/game.js"></script>
   <canvas id = "canvas" width = "500" height = "500"></canvas>
 </body>
+```
 
 OK! You're included it! Make some sprites...
 ```javascript
