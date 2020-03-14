@@ -2,7 +2,7 @@
 A simple js script for making games. It's using canvas technology.
 
 Let's make a simple game!
-For start download  and include script from GitHub...
+For start download  and include script from the GitHub...
 ```html
 <body>
   <script src = "path/to/the/game.js"></script>
