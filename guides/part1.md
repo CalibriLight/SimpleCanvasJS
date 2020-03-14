@@ -29,7 +29,7 @@ The draw() function drawing sprites and background on canvas (Don't change funct
 Let's include script to main page!
 ```html
 <html>
-<!-- main.html file!!! -->
+<!-- The file name is a main.html !!! -->
 <head>
  <meta charset = "UTF-8">
  <title>Game</title>
