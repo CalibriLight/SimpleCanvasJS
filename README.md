@@ -1,8 +1,8 @@
 # SimpleCanvasJS
-A simple js library for making games. It's using canvas technology.
+A simple js script for making games. It's using canvas technology.
 
 Let's make a simple game!
-For start download  and include library from GitHub...
+For start download  and include script from GitHub...
 ```html
 <body>
   <script src = "path/to/the/game.js"></script>
