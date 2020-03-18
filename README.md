@@ -1,6 +1,7 @@
 # SimpleCanvasJS
 A simple js script for making games. It's using canvas technology.
 
+![Discord](https://img.shields.io/discord/688790223173189708)
 Let's make a simple game!
 For start download  and include script from the GitHub...
 ```html
