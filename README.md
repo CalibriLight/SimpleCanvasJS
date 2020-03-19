@@ -1,5 +1,5 @@
 # SimpleCanvasJS
-A simple js script for making games. It's using canvas technology.
+A simple js guide about making games. Let's start!
 
 ![Discord](https://img.shields.io/discord/688790223173189708) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/CalibriLight/SimpleCanvasJS)
